@@ -1,3 +1,2 @@
 # Disaster Tweets Prediction
-Predict which Tweets are about real disasters and which are not.
-This notebook is an exploration of basic NLP concepts and approaches this problem using Term Frequency-Inverse Document Frequency (TF-IDF) features. A basic random forest model is used to classify tweets.
+Predict which tweets are about real disasters and which are not. In this project, basic NLP concepts are used to approach this problem using Term Frequency-Inverse Document Frequency (TF-IDF) features. A basic Random Forest model is used to classify tweets.
